@@ -1,34 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c54bc7f8-5276-4e66-b673-090699b084e7" name="Changes" comment="" />
+    <list default="true" id="c54bc7f8-5276-4e66-b673-090699b084e7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CanPlaceFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CanPlaceFlowers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IncreasingTripletSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IncreasingTripletSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KidsWithCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KidsWithCandies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxNumberOfKSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxNumberOfKSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumAverageSubarray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumAverageSubarray1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumNumberVowelsSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumNumberVowelsSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeStringsAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeStringsAlternately.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseVowelsOfAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseVowelsOfAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCompression.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2v2myy6aG7GTpOn7iT9jN7TrH7w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/iskra/ideaProjects/LeetCodeExersizes/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MaxNumberOfKSumPairs.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaximumAverageSubarray1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MoveZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCompression.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/iskra/ideaProjects/LeetCodeExercises&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/iskra/ideaProjects/LeetCodeExersizes/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.MaximumAverageSubarray1">
+    <configuration name="MaxNumberOfKSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxNumberOfKSumPairs" />
+      <module name="LeetCodeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumAverageSubarray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumAverageSubarray1" />
+      <module name="LeetCodeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveZeroes" />
+      <module name="LeetCodeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCompression" />
+      <module name="LeetCodeExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaximumAverageSubarray1" />
+        <item itemvalue="Application.MaxNumberOfKSumPairs" />
+        <item itemvalue="Application.StringCompression" />
+        <item itemvalue="Application.MoveZeroes" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -45,7 +117,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743351804940</updated>
-      <workItem from="1743351805981" duration="1000" />
+      <workItem from="1743351805981" duration="25449000" />
+      <workItem from="1743432740540" duration="138000" />
+      <workItem from="1743433052302" duration="649000" />
+      <workItem from="1743436633773" duration="17000" />
     </task>
     <servers />
   </component>
@@ -59,6 +134,26 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringCompression.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringCompression.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringCompression.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringCompression.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
